@@ -1,2 +1,2 @@
-# soykinAnatoly.github.io
+# Сойкин Анатолий
 Мой первый сайт
